@@ -1,0 +1,9 @@
+-# Bicycle-Shop-System
+-How mach hours and who had used the bicycle, with python and pyqt 
+-the languge is Turkish, - -programin calisabilmesi icin gerekenler : 
+-pyqt, json destekli python. 
+-Bir bisikletin bir saatlik kiralama ucreti 3 tldir. 
+-
+-
+- 
+-programda bir sorun cikarsa bana yazabilirsiniz, -ammar.ahmet@gmail.com
